@@ -11,3 +11,4 @@
 -[x] can reset the game
 -[x] play again after winning
 -[x] easy mode and hard mode
+-[] refactor
