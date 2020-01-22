@@ -10,4 +10,5 @@
 - [x] can reset / choose new colors
 - [x] play again after winning
 - [x] easy mode and hard mode
->>>>>>> d7e22e82d178704db55816769590920d3a449cde
+
+![Game](https://friendswithanne.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-10-at-7.12.48-PM.png)
